@@ -1,4 +1,4 @@
-### Want to view website? click here :point_right: [Recipe and Shopping List Link](food-recipe-foodlist.firebaseapp.com)
+### Want to view website? :point_right: [Recipe and Shopping List Link](http://food-recipe-foodlist.firebaseapp.com)
 
 # ReceiIngre
 
