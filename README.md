@@ -1,5 +1,8 @@
 ### Want to view website? :point_right: [Recipe and Shopping List Link](http://food-recipe-foodlist.firebaseapp.com)
 
+##### Instructions
+Click on "Authenticate to sign up.  Click on manage to "Fetch Data". 
+
 # ReceiIngre
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
